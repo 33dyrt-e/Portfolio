@@ -1,0 +1,79 @@
+/* === Base Zero Site Styles === */
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url('assets/nebula-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Segoe UI', sans-serif;
+  color: #111;
+}
+
+.site-header {
+  text-align: center;
+  padding: 4rem 1rem 1rem 1rem;
+  color: #eee;
+}
+
+.site-header h1 {
+  font-size: 3rem;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #ccc;
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  flex-direction: column;
+}
+
+.content-box {
+  background: rgba(255, 255, 255, 0.92);
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 10px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.1);
+  max-width: 700px;
+  width: 90%;
+  text-align: center;
+}
+
+.content-box h2 {
+  margin-top: 0;
+}
+
+.content-box ul {
+  list-style: none;
+  padding: 0;
+}
+
+.content-box li {
+  margin: 0.5rem 0;
+}
+
+.content-box a {
+  color: #111;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.content-box a:hover {
+  color: #2b68ff;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: #ccc;
+  font-size: 0.9rem;
+}
