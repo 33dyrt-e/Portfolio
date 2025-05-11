@@ -12,9 +12,9 @@ Physiology Sample:
 
 Play-
 
-Skill Issue The Degen Gospel: [Skill_Issue_The_Degen_Gospel.pdf](https://github.com/user-attachments/files/20150970/Skill_Issue_The_Degen_Gospel.pdf)
+Skill Issue The Degen Gospel: 
 
-A Recursive Sequence: [A-Recursive-Sequence.pdf](https://github.com/user-attachments/files/20150973/A-Recursive-Sequence.pdf)
+A Recursive Sequence: 
 
 The D'Generative Sequence (the three below)
 
